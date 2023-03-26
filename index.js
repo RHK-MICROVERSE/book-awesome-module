@@ -3,7 +3,7 @@ import BookCRUD from './modules/BookStore.js';
 import Interface from './modules/BookInterface.js';
 import { onlyDisplayBook, onlyDisplayInputBook, onlyDisplayContact } from './modules/functions.js';
 // import { DateTime } from './node_modules/luxon/src/luxon.js';
-import { displayDateTime } from './modules/DisplayDate.js';
+import displayDateTime from './modules/DisplayDate.js';
 
 document.addEventListener('DOMContentLoaded', Interface.renderBooks);
 

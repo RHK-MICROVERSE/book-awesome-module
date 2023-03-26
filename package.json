@@ -7,6 +7,7 @@
     "stylelint-scss": "^3.21.0"
   },
   "dependencies": {
+    "eslint-config-airbnb": "^19.0.4",
     "luxon": "^3.3.0"
   }
 }
