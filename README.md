@@ -199,22 +199,28 @@ Run Github Actions Test
 ### Deployment
 
 This project is deployed at github pages you can clone it here. [Please click to clone](https://github.com/RHK-MICROVERSE/book-awesome-module)
-```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ## 👥 Authors <a name="Rassel Hassan Kadir"></a>
 - Main Author: **Rassel Hassan Kadir**
 > List of the collaborators of this project.
-- [Joseph Ddiiro](https://github.com/Ddiiro)
+[Joseph Ddiiro](https://github.com/Ddiiro)
+  
+  [Live Demo Link](https://rhk-microverse.github.io/book-awesome-module/)
 
 👤 **Rassel Hassan Kadir**
 
+<<<<<<< HEAD
 - GitHub: [@githubhandle](https://github.com/RHK-MICROVERSE)
 - Twitter: [@twitterhandle](https://twitter.com/rhk_trading)
 - Linkedin: [@linkedinhandle](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+=======
+- GitHub: [@githubhandle](https://github.com/RHK-MICROVERSE/)
+- Twitter: [@twitterhandle](https://twitter.com/rhk_trading/)
+- Linkedin: [@linkedinhandle](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile/)
+>>>>>>> 06475ffdea4c768096a503b981e8f6c4e2889f79
 - Email: 9rhktrading@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
