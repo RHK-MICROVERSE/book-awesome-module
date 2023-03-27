@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="./images/rhk-trading-logo.png" alt="logo" width="140"  height="auto" />
+  <img src="./images/RHK Trading Logo.png" alt="logo" width="140"  height="auto" />
   <br/>
   <h3><b>Conference Project</b></h3>
 </div>
