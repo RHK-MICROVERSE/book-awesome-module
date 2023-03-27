@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="./images/rhk-trading-logo.png" alt="logo" width="140"  height="auto" />
+  <img src="./images/RHK Trading Logo.png" alt="logo" width="140"  height="auto" />
   <br/>
   <h3><b>Conference Project</b></h3>
 </div>
@@ -212,19 +212,12 @@ This project is deployed at github pages you can clone it here. [Please click to
 
 👤 **Rassel Hassan Kadir**
 
-GitHub: @githubhandle
-Twitter: @twitterhandle
-Linkedin: @linkedinhandle
-
-
-
 - GitHub: [@githubhandle](https://github.com/RHK-MICROVERSE)
 - Twitter: [@twitterhandle](https://twitter.com/rhk_trading)
 - Linkedin: [@linkedinhandle](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 - Email: 9rhktrading@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 🔭 Future Features <a name="future-features"></a>
 
@@ -273,4 +266,3 @@ I would like to thank the Microverse full-stack curriculum for the inspiration a
 This project is under [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
