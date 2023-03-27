@@ -164,7 +164,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git git@github.com:fickryiman/awesome-books.git
+  git git@github.com:RHK-MICROVERSE/kook-awesome-module.git
 ```
 
 
@@ -210,7 +210,6 @@ This project is deployed at github pages you can clone it here. [Please click to
   
 👤 **Rassel Hassan Kadir**
 
-<<<<<<< HEAD
 - GitHub: [@githubhandle](https://github.com/RHK-MICROVERSE)
 - Twitter: [@twitterhandle](https://twitter.com/rhk_trading)
 - Linkedin: [@linkedinhandle](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
